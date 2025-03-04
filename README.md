@@ -1,2 +1,3 @@
 # Kookaii_DB
-KookaiI的存储库
+From Kookaii import MY_DB
+
